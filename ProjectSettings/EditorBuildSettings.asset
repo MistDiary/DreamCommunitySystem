@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Day.unity
+    guid: 797d7a8f1a2fdd54abb328aa0186fdbd
+  - enabled: 0
+    path: Assets/VRCinemaforMobile/Scenes/Demo.unity
+    guid: 5f4c6eb2bcbc88b44861f4a5613576c1
+  - enabled: 1
+    path: Assets/Scenes/Dawn.unity
+    guid: f2db5d66fb5b5014688efbae3852288f
+  - enabled: 1
+    path: Assets/Scenes/Dusk.unity
+    guid: 6693957a96176864eb24123a78e6e768
+  - enabled: 1
+    path: Assets/Scenes/Night.unity
+    guid: 9111398ceeecd1d46ab97656494d8fde
+  - enabled: 1
+    path: Assets/Community_UI_Start.unity
+    guid: 2b53d6b9afeef854581b52ffcc8fe99f
+  m_configObjects: {}
